@@ -74,10 +74,10 @@ body {
     margin: 5px 20px;
     background-color: rgb(253, 253, 8);
     color: rgb(6, 6, 6);
-    padding: 10px 26px;
+    padding: 10px -8px;
     border: 2px solid grey;
     border-radius: 5px;
-    font-size: 25px;
+    font-size: 32px;
     cursor: pointer;
 
 }
